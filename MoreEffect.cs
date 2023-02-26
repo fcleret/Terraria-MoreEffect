@@ -4,5 +4,5 @@ namespace MoreEffect
 {
 	public class MoreEffect : Mod
 	{
-	}
+    }
 }

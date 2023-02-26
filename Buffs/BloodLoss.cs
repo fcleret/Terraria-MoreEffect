@@ -11,7 +11,7 @@ namespace MoreEffect.Buffs
 
         public override void Update(NPC npc, ref int buffIndex)
         {
-            npc.GetGlobalNPC<GlNPC.ModGlobalNPC>().Bloodloss = true;
+            npc.GetGlobalNPC<Global.ModGlobalNPC>().Bloodloss = true;
         }
     }
 }

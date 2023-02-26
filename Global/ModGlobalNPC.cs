@@ -1,10 +1,7 @@
-﻿using Microsoft.Xna.Framework;
-using Terraria;
-using Terraria.Chat;
-using Terraria.Localization;
+﻿using Terraria;
 using Terraria.ModLoader;
 
-namespace MoreEffect.GlNPC
+namespace MoreEffect.Global
 {
     public class ModGlobalNPC : GlobalNPC
     {
